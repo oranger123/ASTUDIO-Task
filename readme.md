@@ -53,6 +53,9 @@ Ensure you have the following installed:
   - Try changing the model to `gemini-2.0-flash` for free-tier access.
 - **Script errors?**
   - Check `query_logs.txt` for details on failures.
+    
+##  Output Snip
+![image](https://github.com/user-attachments/assets/ca942036-cbe3-4a43-bfc1-13b8a8c1373d)
 
 ## 📌 Developed By: Sriuma S  
 📧 Contact: sriuma2001s@gmail.com
