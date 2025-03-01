@@ -12,7 +12,7 @@ logging.basicConfig(
 )
 
 # Set up Google API Key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDw_qyXDwUimZpqzO6NwSbxF9nenNs6Q3I"
+os.environ["GOOGLE_API_KEY"] = "your-api-key-here" # Replace with your actual API key
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # File tracking (to detect changes)
