@@ -1,0 +1,54 @@
+Products:
+
+Product: UltraPhone X
+Price: $799
+Features: 6.5" OLED display, 128GB storage, 12MP camera
+Colors: Black, Silver, Blue
+Availability: In stock
+
+Product: SmartBook Pro 14
+Price: $1,299
+Features: 14" Retina display, 512GB SSD, 16GB RAM
+Colors: Gray, Silver
+Availability: In stock
+
+Product: NoiseCancel 9000 Headphones
+Price: $299
+Features: Active noise cancellation, 30-hour battery life, Bluetooth 5.0
+Colors: Black, White
+Availability: Out of stock
+
+Product: FitTrack Smartwatch
+Price: $199
+Features: Heart rate monitor, GPS, 7-day battery life
+Colors: Black, Rose Gold
+Availability: In stock
+
+Product: HomeBrew Coffee Maker
+Price: $149
+Features: 12-cup capacity, programmable timer, built-in grinder
+Colors: Black, White
+Availability: In stock
+
+---
+
+Company Policies:
+
+Shipping Policy:
+- Standard shipping (3-5 business days): $4.99
+- Express shipping (1-2 business days): $12.99
+- Free standard shipping on orders over $50
+
+Return Policy:
+- Items can be returned within 30 days of purchase.
+- Products must be unused and in original packaging.
+- Refunds are processed within 5-7 business days after receiving the return.
+
+Warranty Policy:
+- All electronic products come with a 1-year limited warranty.
+- Covers manufacturer defects but not accidental damage.
+
+Customer Support:
+- Available Monday-Friday, 9 AM - 6 PM (EST)
+- Contact via email at support@example.com or call 1-800-555-1234
+
