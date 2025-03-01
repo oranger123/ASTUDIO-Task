@@ -1,5 +1,3 @@
-Products:
-
 Product: UltraPhone X
 Price: $799
 Features: 6.5" OLED display, 128GB storage, 12MP camera
