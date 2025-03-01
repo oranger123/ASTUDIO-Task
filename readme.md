@@ -38,7 +38,7 @@ Ensure you have the following installed:
    ```
 ## Updating the Knowledge Base
 - If you add new products or policy details to `ecommerce_knowledge_base.txt`, the query_data.py file automatically retrieves the new informations and store it in chromadb.
--This ensures the ChromaDB vector store is updated with the latest information.
+- This ensures the ChromaDB vector store is updated with the latest information.
 
 ## 📌 Usage
 - When prompted, enter a customer query (e.g., *"What is your return policy?"*).
